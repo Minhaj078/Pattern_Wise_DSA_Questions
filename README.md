@@ -7,5 +7,5 @@
   - Language: C++
   - Approach: Two Pointers
 
-- **3Sum Closest**
-  - 🔗 https://leetcode.com/problems/3sum-closest/
+- **Separate 0, 1**
+  - 🔗 https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
