@@ -22,5 +22,5 @@
 - **3 Sums Closest**
   - 🔗 https://leetcode.com/problems/3sum-closest/description/
 
-- **3 Sums**
+- **3 Sums smallest**
   - 🔗 https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1
