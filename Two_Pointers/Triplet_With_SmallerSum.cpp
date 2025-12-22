@@ -20,4 +20,4 @@ long long countTriplets(int n, long long sum, long long arr[]) {
             }
         }
         return cnt;
-    }
+}
