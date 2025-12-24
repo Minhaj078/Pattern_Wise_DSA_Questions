@@ -22,5 +22,17 @@
 - **3 Sums Closest**
   - 🔗 https://leetcode.com/problems/3sum-closest/description/
 
+- **4 Sums**
+  - 🔗 https://leetcode.com/problems/4sum/description/
+    
 - **3 Sums smallest**
   - 🔗 https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1
+
+- **Shortest Unsorted Subarray**
+  - 🔗 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
+
+- **Subarray Product Less Than k**
+  - 🔗 https://leetcode.com/problems/subarray-product-less-than-k/
+
+- **Dutch Color Algorithm**
+  - 🔗 https://leetcode.com/problems/sort-colors/description/
